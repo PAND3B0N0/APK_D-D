@@ -1,0 +1,6 @@
+{
+  "name": "Grimorio DM — Asistente D&D 5e",
+  "description": "Herramienta interactiva mobile-first para Dungeon Masters de Dungeons & Dragons 5e: Bestiario en vivo, generador de botín por nivel de desafío y bandeja de dados poliédricos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

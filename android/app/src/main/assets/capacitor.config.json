@@ -1,0 +1,11 @@
+{
+	"appId": "com.grimoriodm.dnd5e",
+	"appName": "Grimorio DM",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"backgroundColor": "#0F1115"
+	}
+}
